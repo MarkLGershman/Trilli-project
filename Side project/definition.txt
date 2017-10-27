@@ -1,0 +1,45 @@
+
+HTML
+
+intranet: private network. share files between co workers
+extranet:private network. share files with external business partners. 
+uri: uniform resource identifier (new)
+url:uniform resource locator (old)
+subdomain: configured to house a separate website located at the same domain. google maps are an ex. 
+protocol:rules that desxribe how clients and servers communicate with each other over a network. 
+file transfer protocol: set of rules that allows files to be exchanged between computers on the internet. 
+http: set of rules for exchanging files such as video, and other multimedia on the web. browser builds http request and sends it to the server. 
+tcp: ensures integrity of network communication. breaks files/messages into individual units called packets containing info (number, source, etc)
+markup language: consist of sets of directions that tell browser software(or mobile phone) how to display web document. usually called tags (hyperlinks)
+sgml: standard generalized markup language: not a document language. specifying markup language
+html: hypertext markup language: code or symbols placed in a file intended for display on a website browser.
+xml: extensible markup language: used in conjunction with html to create tags they need to describe info. 
+xhtml: reformulates html 4.01 as an application of xml. Replaced by HTML5
+&nbsp: adds a small space. can be duplicated.
+
+dl tag: description entrance. use all 3 in conjunction.
+dt tag: term or name
+dd tag: a description.
+strong or b tag is bold.
+i: italics <i>
+relative hyperlink: href value includes file name, not domain name. <a href="contact.html">Contact us</a>
+absolute hyperlink: url. <a href="http://google.com"</a>
+email hyperlink: uses mail to instead of http. <a href="mailto:help@terrymorris.net">help@terrymorris.net</a>
+
+CSS
+
+You can't open a css style directly
+There are 3 different font familys because you dont know if a computer will have what you want. Georgia, times new roman, serif is a backup
+nav a { will only apply to a tags inside the nav tag in html (you have titles in index)}
+
+font family: typeface config. p {font-family: Arial;)
+font-face: if you own the rights to another font somebody else has. {font-family: Myawesomefont; src: url (myawesomefont.woff) format("woff");}
+font-weight: font-weight: bold
+line-height: text appears double spaced if 200%. line-height: 200%;
+text-align: by default, it begins at the left.  h1 {text-align: center;}
+text-indent: starting a sentence further than it normally is. p {text-indent: 5em; } 
+text-shadow: text-shadow 3px 3px 5px #cccccc; (gray)
+text-transformation: h3 {text-transform: uppercase;}
+.feature: selects specific styles.  (in HTML) <li class="feature"> (in CSS) .feature{color:#c70000;}
+main p: selects specifics. any style within the main p tag will be targeted. main p {color:#000000;}
+

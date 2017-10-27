@@ -1,0 +1,6 @@
+<em> Our world </em>. This makes the word or words into italics (can be combined with strong)
+<br> .......... </br>. This adds a linebreak. Move onto the next paragragh. Done inside <p>
+<strong> Our world </strong>. This makes the word or words bold (can be combined with em)
+<ul> unordered list <li> dot </li> </ul>
+<ol> ordered list <li>  bugs bunny </li> </ul>
+IMAGE (src is source)(alt is text incase the image does not load)<img src="url" alt= rabbit width="200"> 

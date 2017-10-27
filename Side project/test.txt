@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My site</title>
+<meta charset="utf-8"/>
+<meta description="This is my very first site, honest"/>
+  </head>
+  <body>
+  <p>This is my first site.&nbsp; It looks nicer than the one for home legal cost!</p>
+  <h1> Heading lv 1 </h1>
+  <h2> Heading lv 2 </h2>
+  <h3> Heading lv 3 </h3>
+  <h4> Heading lv 4 </h4>
+  <h5> Heading lv 5 </h5>
+  <h6> Heading lv 6 </h6>
+  <blockquote> There's no limit <blockquote>
+    <br/>
+    <h1> my fav colors </h1>
+    <ol>
+      <li> Blue</li>
+      <li> Red </li>
+      <li> Green </li>
+      <li> Silver </li>
+      <li> Black </li>
+    </ol>
+  </body>
+  </html>

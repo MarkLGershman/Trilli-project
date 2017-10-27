@@ -1,0 +1,9 @@
+alt is for search engine optimization. it increases visibility. 
+Look into iframe: replacement for my google maps code
+p225 may be useful to you 
+<fieldset> <legend> signup info </legend> <label for="email"> E-mail</label><input type="text" 
+name="email" id="email"/> GIVES A TABLE AROUND EMAIL <br/><br/><label for="favorite">Favourite Food</label> <input type="text" id="favorite" list="foods"/>
+<datalist id="foods"><option value="cheesecake">Cheesecake</option> 
+<option value="lemon chicken">Lemon Chicken</option> <option value="lasagne">Lasagne</option><option value="chicken">Chicken</option></datalist>
+
+Reference p248
